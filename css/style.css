@@ -1,0 +1,17 @@
+
+h3 {
+    margin-left: 5em;
+}
+
+div#output {
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-bottom: 2em;
+    width: 25em;
+    color:#444;
+}
+
+div#footer {
+    margin-left: 5em;
+    font-size:75%;
+}
